@@ -17,6 +17,7 @@ Download the pretrained VGG16/InceptionV3 models for CUB and put them under chec
 - https://drive.google.com/drive/folders/1pgLjFN_LxKEA7dnmyVORUxFoEi_k9q86?usp=sharing
 
 This example shows the usage of inference with vgg16 classification and localization model.
+
 `bash infer.sh`
     
 This inference code is based on PSOL (https://github.com/tzzcl/PSOL).
