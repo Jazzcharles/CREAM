@@ -1,0 +1,1 @@
+python inference.py --data /path/to/dataset/CUB_200_2011 --cls-model vgg16 --clf_ckpt_dir checkpoints/best_classification_cub_crm_vgg16.pth.tar --loc-model vgg16 --ckpt_dir checkpoints/checkpoints_inceptionv3_CREAM_ext8.pth.tar
