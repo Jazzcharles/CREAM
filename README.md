@@ -1,7 +1,7 @@
 ## CREAM: Weakly Supervised Object Localization via Class RE-Activation Mapping
 This is the official PyTorch implementation for CREAM.
 We provide the inference code for regressor-based CREAM on CUB dataset. 
-The training code is coming soon.
+The training code is coming soon. (Sorry our server was attacked and all the users were deleted. We are trying to get our latest code back.)
 ### Requirements
 `pip install -r requirements.txt`
 
